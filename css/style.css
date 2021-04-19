@@ -1,0 +1,159 @@
+.container{
+    background: url('lofi.gif') no-repeat center top;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+.titulo{
+	font-family: Trebuchet MS;
+	padding: 15px 0 15px;
+	text-align: center;
+	font-size: 40px;
+	background-color: #44444480;
+	color: #fff;
+}
+.icon{
+	position: absolute;
+	border: 3px solid #fff;
+	border-radius: 50%;
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	color: #fff;
+}
+.icon:hover{
+	transform: scale(1.3);
+	transition: .2s;
+}
+.light-ico{
+	margin: 9% 0 0 29%;
+}
+.music-ico{
+	margin: 18% 0 0 58%;
+}
+.game-ico{
+	margin: 30% 0 0 8%;
+}
+.font-art{
+	position: absolute;
+	margin: 85vh 10px 0;
+	background-color: #292B2F;
+	padding: 4px;
+	border-radius: 3px;
+}
+.font-art-link{
+	text-decoration: none;
+	color: #fff;
+}
+.rodape{
+	position: absolute;
+	display: flex;
+	align-items: center;
+	margin: 37.4% 0 0 86.7%;
+}
+.nome{
+	font-family: arial;
+	font-weight: bold;
+	font-size: 14px;
+	color: #fff;
+	padding: 20px 60px 20px 8px;
+	background-color: #292B2F;
+	border-radius: 9px;
+}
+.img-rodape{
+	margin-left: 122px;
+	position: absolute;
+	width: 26%;
+	border-radius: 50%;
+}
+/* index css */
+
+
+.titulo2{
+	margin: 0 0 5%;
+	font-family: Trebuchet MS;
+	padding: 15px 0 15px;
+	text-align: center;
+	font-size: 40px;
+	background-color: #44444480;
+	color: #fff;
+}
+.center{
+	transform: scale(.9);
+	margin: 8px 8px;
+}
+.center:hover{
+	transform: scale(1.1);
+}
+.content{
+	background-color: #fff293;
+	margin: 0 13%;
+	padding: 30px;
+	display: flex;
+}
+.text-content{
+	font-size: 15px;
+	font-family: arial;
+	text-align: justify;
+}
+.text{
+	padding: 0 0 5px;
+}
+.ubqd-comp-img{
+	width: 45%;
+	padding-left: 25px;
+}
+.timeline-img{
+	padding: 0 0 0 25px;
+	width: 80%;
+}
+.img3{
+	padding: 30px;
+	width: 30%;
+	height: 200px;
+}
+.content-lastchild{
+	margin: 5% 13% 5%;
+	display: block;
+}
+.naruto-img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
+.last-text{
+	text-align: center;
+}
+/* Ubqd Comp */
+
+.cachorro-img{
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 43%;
+}
+.ear-img{
+	padding-left: 25px;
+}
+.poem{
+	text-align: center;
+	padding: 15px 0 0 0;
+}
+.gif{
+	margin-left: 60vh;
+    display: block;
+	width: 20%;
+}
+/* soundwalk */
+
+.mario-img{
+	padding: 20px 0 20px 25px;
+	margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+.text-space{
+	padding: 10px 0;
+}
